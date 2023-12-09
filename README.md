@@ -21,5 +21,6 @@ I'm a Computer Engineering undergraduate who thrives at the intersection of codi
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3By5V87Z7fTxyLUgO%2BH2MarQ%3D%3D)
 - [Personal Portfolio](your-portfolio-link)
+- [My Blog](https://rushikad08.blogspot.com/)
 
 Feel free to explore my repositories and don't hesitate to connect!
