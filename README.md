@@ -22,11 +22,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushika08&langs_count=6&theme=merko&layout=compact" alt="Top Languages" />
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushika08&langs_count=5&theme=merko" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Rushika08&theme=merko" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Rushika08&theme=darkhub&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
